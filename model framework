@@ -1,0 +1,21 @@
+Key Components of  Model
+1. Smart Infrastructure Setup
+Connected Traffic Lights: Traffic signals that communicate with vehicles to optimize flow.
+IoT-Enabled Road Sensors: Collect real-time data on congestion, road conditions, and pedestrian movement.
+Smart Parking Systems: Vehicles can find and navigate to available parking spots.
+2. Vehicle-to-Infrastructure (V2I) Communication
+Traffic Light Coordination: Vehicles adjust speed based on upcoming signal changes.
+Road Condition Alerts: Sensors detect hazards (e.g., potholes, accidents) and notify vehicles.
+Dynamic Speed Limits: AI adjusts speed limits based on traffic density and weather.
+3. Vehicle-to-Vehicle (V2V) Communication
+Collision Avoidance System: Vehicles share location and speed data to prevent accidents.
+Platooning for Efficiency: Autonomous cars form groups to reduce congestion and save energy.
+4. Data Processing & Decision-Making
+Edge Computing with 5G: Reduces latency by processing data close to vehicles.
+AI-Powered Traffic Predictions: Analyzes real-time traffic data to optimize routes.
+Cloud-Based Control Center: Central hub managing city-wide transportation.
+#code framework
+V2X Communication (Vehicle-to-Everything)
+IoT Sensors & Smart Traffic Lights
+AI-based Traffic Management
+CARLA Integration for Autonomous Vehicles
